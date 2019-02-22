@@ -1,0 +1,33 @@
+{
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 1,
+    "window.menuBarVisibility": "default",
+    "editor.renderWhitespace": "all",
+    "update.channel": "none",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "Dark++",
+    "workbench.iconTheme": "vs-nomo-dark",
+    "workbench.colorCustomizations": {
+        "editor.background": "#050512",
+        "breadcrumb.background": "#101010",
+        "panel.background": "#101010",
+        "sideBar.background": "#101010",
+        "menu.background": "#101010",
+        "editorPane.background": "#101010",
+        "button.background": "#101010",
+        "tab.activeBackground": "#202020",
+        "tab.inactiveBackground": "#151515",
+        "tab.hoverBackground": "#252525",
+        "tab.border": "#0c0c0c",
+        "titleBar.activeBackground": "#101010",
+        "titleBar.inactiveBackground": "#101010",
+        "sideBarSectionHeader.background": "#101010",
+        "activityBar.background": "#101010",
+        "statusBar.background": "#111111",
+        "debugToolBar.background": "#101010",
+        "editorGroupHeader.tabsBackground": "#101010",
+        "editorGroup.border": "#0a0a0a"
+    }
+}
