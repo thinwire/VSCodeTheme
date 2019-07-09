@@ -1,9 +1,8 @@
 {
     "workbench.startupEditor": "none",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "window.menuBarVisibility": "default",
     "editor.renderWhitespace": "all",
-    "update.channel": "none",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
     "workbench.sideBar.location": "left",
@@ -29,5 +28,10 @@
         "debugToolBar.background": "#101010",
         "editorGroupHeader.tabsBackground": "#101010",
         "editorGroup.border": "#0a0a0a"
-    }
+    },
+    "python.linting.enabled": false,
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 15,
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
 }
